@@ -1,0 +1,17 @@
+{
+    "name": "199505/webhookdeploy",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Maydana",
+            "email": "mattmaydana@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "larapack/dd": "^1.1"
+    }
+}
